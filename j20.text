@@ -1,0 +1,82 @@
+Day-2: variable
+------
+int + int = int (arthmatic addition)
+string + string = string 
+string + int = string
+
+naming convention:
+reserved keyword --- 
+
+pascal case-- Username// classes and interface in use 
+camel case-- userName// variable and method in use 
+scake_camel -- user_name
+kefaf - camel -- user-name 
+
+ Game of braket 
+----------------
+ 
+-()- Methods        - paranthesis
+--{}- Scope /body    - curly
+--[]- Array         - Square
+--<> - Generics     - Angular
+
+day -3
+-------
+Data type :
+1. Premitive or predefined:
+
+byte/short/int /long
+
+float /double
+
+boolean
+
+char ====   'a'
+string==== "a"
+
+char ch= 'L';
+char ch2=
+
+
+Today = 07-02-2023!!
+-----------------------------
+control flow statement :
+
+1.if else
+select a and ctr+ ?
+
+
+charAt(0)
+
+quesstion solve
+--------------------
+public class IncrementDecrementQuiz 
+{
+    public static void main(String[] args) 
+    {
+        int x = 001, y=010, z=100;
+         
+        int i = --x + y++ - z-- - --z + ++y - --x + y-- - --x;
+         
+        System.out.println("x="+x);
+        System.out.println("y="+y);
+        System.out.println("z="+z);
+        System.out.println("i="+i);
+    }
+}
+
+
+i = 0+10-100-98+12-(-1)+12-(-1)
+
+leap year condition.....learn.microsoft.com
+
+
+year%4=divide by 100 = divide by 400 (leap year)...
+
+
+
+
+
+
+
+ 

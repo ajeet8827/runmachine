@@ -1,0 +1,51 @@
+
+                     ---Wrapper Class---
+                       --------------
+wrapper clss pemitive ko non premitive me  compatible karta hai .
+                 ---int to string coversion-- 
+
+                     ---String to int---
+String s="98;
+int a=Integer.parseInt(s);
+
+* Integer a="87";// right as compare to string 
+  Integer a=new Integer(78);
+
+---sab kuch string me uthao aur convert kardo ...
+int a=sc.nextInt();
+int s=sc.nextLine();
+
+int a=Integer.parseInt(sc.nextLine);
+int s=sc.nextLine();
+
+---------------------------------Buffer Reader--------------------------------------
+
+-data ko ekatha karke le jana is clled buffering..
+-ISR obj=new ISR(System.in)
+-- BufferReader br=new BR(obj);esisting process ko tej kar deta hai...
+
+-- InputStreamReader isr=new InputSteamReader(System.in);
+-- BufferReader br= new Bufferreader(isr);
+
+int a=Integer.parseInt(br.readLine());
+int b=Interger.parseInt(br.readLine());//br.readLine input lene ke liye ruk jata hai...
+
+-----------------------------Method Overloading---------------
+-name is same and working is different....is cld method overloading....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
